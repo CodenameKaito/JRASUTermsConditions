@@ -26,7 +26,7 @@
   <hr style="background-color: #027dff; height: 3px; border: none; margin: 40px">
   <h2 align="center"><font color="#1520a6">Founder</font></h2>
   <h3 align="center">Our university founder is...</h3>
-<img src="https://philnews.ph/wp-content/uploads/2022/01/Jak-Roberto.jpg" align="center" style="width:300px; height:300px;">
+<img src="https://philnews.ph/wp-content/uploads/2022/01/Jak-Roberto.jpg" style="display: block; margin: auto; width:300px; height:300px;">
   <h2 align="center"><a style="text-decoration: none" href="https://htmlpreview.github.io/?https://github.com/CodenameKaito/JRASUTermsConditions/blob/main/MAINl.html">BACK</h2></a>
     </body>
 </html>
