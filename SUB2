@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>aboutusjrasu.edu.ph</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</html>
+</head>
+<body style="font-family: Arial, sans-serif;">
+  <header style="background-color: #027dff; border-radius: 16px; margin: 1px; height: 60px;">
+    <h3>
+        <input type="search" name="Information" placeholder="Search" style="color: black; width: 200px; padding: 8px 30px 8px 35px;
+          font-size: 16px; border: 1px solid white; border-radius: 20px; background: white url('https://cdn-icons-png.freepik.com/512/3711/3711730.png') no-repeat 10px center;
+          background-size: 20px; margin: 12px; outline: none;">
+      
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4x-No6SUXfDFrxeIl-vXj2vC-4Qg7PC75n6nrNoHPXxBuddL3hrODtCBE&s=10" 
+        align="right" style="border-radius: 30px; margin: 10px; width: 40px; height: 40px">
+    </h3>
+  </header>
+    <h3 align="center"><font color="#241571">WELCOME TO<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4x-No6SUXfDFrxeIl-vXj2vC-4Qg7PC75n6nrNoHPXxBuddL3hrODtCBE&s=10" 
+     align="center" style="width: 100px; height: 100px"></font></h3>
+    <h2 align="center"><font color="#1520A6">JAK ROBERTO<br>ANTI-SELOS UNIVERSITY<br>Biringan Campus</font></h2>
+    <br>
+  <h2 align="center"><font color="#1520a6">Online Portal</font></h2>
+    <br>
+  <hr style="background-color: #027dff; height: 3px; border: none; margin: 40px">
+  <h2 align="center"><font color="#1520a6">Founder</font></h2>
+  <h3 align="center">Our university founder is...</h3>
+ 
+  <video width="300" ; height="300" autoplay="" loop="" controls="" style="display: block; margin: auto;">
+    <source src="https://vt.tiktok.com/ZSU5DUUTB/" width="20p" height="200" align="center"></video>
+  <h2 align="center"><a style="text-decoration: none" href="http://S1zTCZr6k5aGo8g:LZd7QuoO5607uE6@localhost:17545/storage/emulated/0/HTMLS%20Collection/Enrollment%20for%20MCU.html">BACK</h2></a>
+    </body>
+</html>
