@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>termandconditionsjrasu.edu.ph</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</html>
+</head>
+<body style="font-family: Arial, sans-serif;">
+  <header style="background-color: #027dff; border-radius: 16px; margin: 1px; height: 60px;">
+    <h3>
+        <input type="search" name="Information" placeholder="Search" style="color: black; width: 200px; padding: 8px 30px 8px 35px;
+          font-size: 16px; border: 1px solid white; border-radius: 20px; background: white url('https://cdn-icons-png.freepik.com/512/3711/3711730.png') no-repeat 10px center;
+          background-size: 20px; margin: 12px; outline: none;">
+      
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4x-No6SUXfDFrxeIl-vXj2vC-4Qg7PC75n6nrNoHPXxBuddL3hrODtCBE&s=10" 
+        align="right" style="border-radius: 30px; margin: 10px; width: 40px; height: 40px">
+    </h3>
+  </header>
+    <h3 align="center"><font color="#241571">WELCOME TO<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4x-No6SUXfDFrxeIl-vXj2vC-4Qg7PC75n6nrNoHPXxBuddL3hrODtCBE&s=10" 
+     align="center" style="width: 100px; height: 100px"></font></h3>
+    <h2 align="center"><font color="#1520A6">JAK ROBERTO<br>ANTI-SELOS UNIVERSITY<br>Biringan Campus</font></h2>
+    <br>
+  <h2 align="center"><font color="#1520a6">Online Portal</font></h2>
+    <br>
+  <hr style="background-color: #027dff; height: 3px; border: none; margin: 40px">
+  <h2 align="center"><font color="#1520a6">Terms and Conditions</font></h2>
+  <h3 align="center">These are the essential terms for your enrollment at 
+    [Jak Roberto University - Biringan Campus].<br>
+    By enrolling, you agree to abide by these conditions.</h3>
+    <ol>
+      <li>Enrollment & Fees</li>
+ * Financial Obligation: You are responsible for the timely payment of all tuition, fees, and charges associated with your course of study. Failure to pay may result in holds, late penalties, or suspension of enrollment.
+ * Academic Record: Enrollment is contingent upon the authenticity and validity of all documents submitted (e.g., transcripts, qualifications). Any misrepresentation may lead to immediate revocation of enrollment.
+      <li>Academic Conduct</li>
+ * Adherence to Policies: You must comply with all University rules, regulations, and policies, including but not limited to, the Student Code of Conduct and Academic Honesty policies (e.g., against plagiarism and cheating).
+ * Course Requirements: You must meet all academic requirements, deadlines, and minimum performance standards set for your enrolled courses and degree program.
+      <li>Privacy & Data</li>
+ * Data Use: You consent to the University collecting, storing, and processing your personal data for academic, administrative, financial, and safety purposes, as outlined in the University's Privacy Policy.
+      <li>Withdrawals & Cancellations</li>
+ * Refund Policy: Enrollment changes, withdrawals, or leaves of absence are subject to the official Refund and Withdrawal Policy of the University, which dictates any potential fee refunds or academic penalties.
+ * University Rights: The University reserves the right to cancel or modify course offerings, change fee structures, or alter academic policies with reasonable notice.
+      <li>Governing Agreement</li>
+ * Full Terms: This short form is a summary. You acknowledge and agree that the full, detailed University Enrollment Agreement and all current University Handbooks and Policies govern your relationship with the institution. You are responsible for reviewing these full documents.
+    </ol>
+  <h2 align="center"><a style="text-decoration: none" href="https://htmlpreview.github.io/?https://github.com/CodenameKaito/JRASUTermsConditions/blob/main/MAINl.html"
+    >BACK</h2></a>
+</body>
+</html>
