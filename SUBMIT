@@ -7,7 +7,7 @@
 </html>
 </head>
 <body style="font-family: Arial, sans-serif;">
-  <header style="background-color: #3399ff; border-radius: 30px; margin: 1px; height: 60px; box-shadow: 5px 5px 10px 2px rgba(0, 0, 0.1, 0.2)">
+  <header style="background-color: #276221; border-radius: 30px; margin: 1px; height: 60px; box-shadow: 5px 5px 10px 2px rgba(0, 0, 0.1, 0.2)">
     <h3>
         <input type="search" name="Information" placeholder="Looking for?" style="color: black; width: 150px; padding: 6px 30px 5px 35px;
           font-size: 16px; border: 1px solid white; border-radius: 20px; background: white url('https://cdn-icons-png.freepik.com/512/3711/3711730.png') no-repeat 10px center;
