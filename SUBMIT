@@ -2,20 +2,27 @@
 
 <html>
 <head>
-  <title>aboutusjrasu.edu.ph</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>bu.edu.ph</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </html>
 </head>
 <body style="font-family: Arial, sans-serif;">
-  <header style="background-color: #027dff; border-radius: 16px; margin: 1px; height: 60px;">
+  <header style="background-color: #3399ff; border-radius: 30px; margin: 1px; height: 60px; box-shadow: 5px 5px 10px 2px rgba(0, 0, 0.1, 0.2)">
     <h3>
-        <input type="search" name="Information" placeholder="Search" style="color: black; width: 200px; padding: 8px 30px 8px 35px;
+        <input type="search" name="Information" placeholder="Looking for?" style="color: black; width: 150px; padding: 6px 30px 5px 35px;
           font-size: 16px; border: 1px solid white; border-radius: 20px; background: white url('https://cdn-icons-png.freepik.com/512/3711/3711730.png') no-repeat 10px center;
-          background-size: 20px; margin: 12px; outline: none;">
-      
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4x-No6SUXfDFrxeIl-vXj2vC-4Qg7PC75n6nrNoHPXxBuddL3hrODtCBE&s=10" 
-        align="right" style="border-radius: 30px; margin: 10px; width: 40px; height: 40px">
+          background-size: 20px; margin: 14px; outline: none;">
+      <img src="https://icon-library.com/images/three-bar-menu-icon/three-bar-menu-icon-3.jpg"
+        align="right" style="border-radius: 1px; margin: 20px; width: 20px; height: 20px"></a>
     </h3>
+  </header><br>
+    <h3 align="center"><font color="#241571">WELCOME TO<br><img src="content://media/external/downloads/1000181335"
+     align="center" style="width: 100px; height: 100px"></font></h3>
+    <h2 align="center"><font color="green">BIRINGAN<br> UNIVERSITY<br></font>
+      <font color= "1520a6">Biringan Campus</font></h2>
+    <br>
+  <h2 align="center"><font color="#1520a6">Online Portal</font></h2>
+    <br>
   </header>
     <h3 align="center"><font color="#241571">WELCOME TO<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4x-No6SUXfDFrxeIl-vXj2vC-4Qg7PC75n6nrNoHPXxBuddL3hrODtCBE&s=10" 
      align="center" style="width: 100px; height: 100px"></font></h3>
